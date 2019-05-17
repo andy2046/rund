@@ -35,7 +35,7 @@ Package rund implements a DAG task dependency scheduler.
 * [Rund](#example_Rund)
 
 #### <a name="pkg-files">Package files</a>
-[operator.go](/src/github.com/andy2046/rund/operator.go) [rund.go](/src/github.com/andy2046/rund/rund.go) 
+[operator.go](/src/github.com/andy2046/rund/operator.go) [rund.go](/src/github.com/andy2046/rund/rund.go) [sort.go](/src/github.com/andy2046/rund/sort.go) 
 
 
 
